@@ -1,0 +1,12 @@
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+
+# Personal data / user uploads — never commit real book exports or generated reports
+attached_assets/
+*_Bücher.html
+.env
+.env.*
