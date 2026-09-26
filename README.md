@@ -1,4 +1,4 @@
-# Goodreads2PDF – Bücherliste-Generator
+# books-goodreads2html – Bücherliste-Generator
 
 Ein Tool, das den CSV-Export deiner [Goodreads](https://www.goodreads.com/)-Bibliothek in eine schön gestaltete, eigenständige HTML-Bücherliste mit Covern, Sternebewertungen und Rezensionen verwandelt — inklusive optionaler KI-generierter Lesejahres- und Genre-Zusammenfassungen.
 
